@@ -23,10 +23,10 @@ The Vrinda Store wants to create an annual sales report for 2022, So that, the O
 - Created pivot tables based on the questions asked.
 - I merged all pivot tables into one dashboard and applied slicers to make it dynamic.
 
-  ## Dashboard
+## Dashboard
   ![Screenshot](https://github.com/user-attachments/assets/7b61e142-b50d-486f-b250-a70632a5f894)
 
-  ## Project Insight
+## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka, and Uttar Pradesh are the top three product buyers.
 - The adult age group (30-49 years) is the highest contributing (~50%) and buys the most products.
