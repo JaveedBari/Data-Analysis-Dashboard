@@ -7,7 +7,7 @@ The Vrinda Store wants to create an annual sales report for 2022, So that, the O
 
 - <a href="https://github.com/JaveedBari/Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System/blob/main/Inventory%20Management%20System%20.xlsx">Dataset</a>
 
-C:\Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System
+
 
 ## Questions (KPIs)
 -	Compare the sales and orders using single chart.
@@ -25,7 +25,7 @@ C:\Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System
 
 -Dashboard Interaction <a href="https://github.com/JaveedBari/Inventory Management System/blob/main/IMS%20.png">View Dashboard</a>
 
-C:\Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System
+
 
 ## Process
 - Verified the data for any missing values and anomalies and addressed them accordingly.
