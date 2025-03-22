@@ -5,10 +5,6 @@ The Vrinda Store wants to create an annual sales report for 2022, So that, the O
 ## Dataset Used
 - <a href="https://github.com/JaveedBari/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
-- <a href="https://github.com/JaveedBari/Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System/blob/main/Inventory%20Management%20System%20.xlsx">Dataset</a>
-
-
-
 ## Questions (KPIs)
 -	Compare the sales and orders using single chart.
 -	Which month got the highest sales and orders?
@@ -21,10 +17,6 @@ The Vrinda Store wants to create an annual sales report for 2022, So that, the O
 
 
 -Dashboard Interaction <a href=”https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Screenshot%20(495).png”>View Dashboard</a>
-
-
--Dashboard Interaction <a href="https://github.com/JaveedBari/Inventory Management System/blob/main/IMS%20.png">View Dashboard</a>
-
 
 
 ## Process
